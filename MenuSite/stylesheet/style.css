@@ -1,0 +1,53 @@
+.Blue {
+    background-color: purple;
+} 
+#first {
+    height: 115px;
+    width: 101vw;
+    border-radius:0;
+    
+}
+#second{
+    color:white;
+    position: static;
+    float: left;
+}
+#un , #chicken , #fish {
+    color: wheat;
+}
+
+}
+.navbar-toggler {
+    background-color: turquoise;
+}
+#trois {
+    border: wheat solid 2px;
+    clear: both;
+}
+
+@media screen and (max-width: 576px) {
+    h1 {
+        font-size:10vw;
+        margin-top: -10px;
+        
+    }
+    
+}
+h2 {
+    color: wheat;
+    margin-top: 13px;
+}
+
+.bg-white {
+    color: teal;
+}
+#new {
+    color: wheat;
+}
+.the {
+    border: black solid 1px;
+    background-color: cornsilk;
+    width: 100%;
+    padding: 18px;
+    margin: 15px;
+}
